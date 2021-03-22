@@ -1,0 +1,2 @@
+This is my new file for testing.
+I hope everyone are having a lot of fun working with git.
